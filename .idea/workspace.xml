@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0d40d89-13c9-4824-a8b2-e8d92a28f068" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="classicmodels: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="classicmodels: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="productlines: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j5TYr5PQnXl4vijgtJF97vpyoc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="c824d81b-bd9b-425c-b1c8-d3b490d7ef4b" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="be.intecbrussel.classiccars.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CustomerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.classiccars.app.CustomerApp" />
+      <module name="Bart_Hunerbein-classiccars_example-59f76d8f6286" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.classiccars.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@60078094" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d40d89-13c9-4824-a8b2-e8d92a28f068" name="Default Changelist" comment="" />
+      <created>1603093003459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603093003459</updated>
+      <workItem from="1603093004848" duration="2845000" />
+      <workItem from="1603263699135" duration="7248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="0" key="#Notifications" timestamp="1603270816299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="252" y="0" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603270816299" />
+    <state x="493" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603093295348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603093295348" />
+    <state x="633" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1603269776003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603269776003" />
+    <state x="431" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1603264550730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603264550730" />
+    <state x="341" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603270722679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="341" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603270722679" />
+    <state x="75" y="0" width="1628" height="1040" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1603266206516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="75" y="0" width="1628" height="1040" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603266206516" />
+    <state x="502" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603264193584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603264193584" />
+    <state x="590" y="102" key="FileChooserDialogImpl" timestamp="1603270944177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="102" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603270944177" />
+    <state x="582" y="343" key="Github.ShareDialog" timestamp="1603271026497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="343" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603271026497" />
+    <state width="921" height="238" key="GridCell.Tab.0.bottom" timestamp="1603270963056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="921" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603270963056" />
+    <state width="921" height="238" key="GridCell.Tab.0.center" timestamp="1603270963056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="921" height="238" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603270963056" />
+    <state width="921" height="238" key="GridCell.Tab.0.left" timestamp="1603270963056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="921" height="238" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603270963056" />
+    <state width="921" height="238" key="GridCell.Tab.0.right" timestamp="1603270963056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="921" height="238" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603270963056" />
+    <state width="356" height="824" key="HiddenNamespacesPopup" timestamp="1603093325368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="356" height="824" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1603093325368" />
+    <state x="114" y="0" key="SettingsEditor" timestamp="1603270794420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="114" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603270794420" />
+    <state x="502" y="190" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1603270174388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="190" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603270174388" />
+    <state x="445" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1603270983242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="218" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603270983242" />
+    <state x="364" y="228" key="run.anything.popup" timestamp="1603264356465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="364" y="228" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603264356465" />
+  </component>
+</project>
